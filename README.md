@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning js, python, dart (flutter)
 - 📫 How to reach me :
 
-    - by email
+    - by 📧 @[emailanyarepras](mailto:emailanyarepras@gmail.com)
 
 <!---
 masprast/masprast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
