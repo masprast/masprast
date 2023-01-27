@@ -4,7 +4,7 @@
 - 📫 How to reach me :
 
     - by 📧 [@emailanyarepras](mailto:emailanyarepras@gmail.com)
-    - or my [Linkedin](https://www.linkedin.com/in/henry-prasetya-kurniawan-06b69329) account
+    - or my [Linkedin](https://www.linkedin.com/in/masprast) account
 
 <!---
 masprast/masprast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
