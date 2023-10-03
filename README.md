@@ -3,7 +3,7 @@
 I'm a freelance software developer who want to be a DevOps, because I have curiousity in linux system administration.
 
 ## About me
-A brief about my experience, I have been to college for bachelor degree on Computer Science field at 2012, but life's changing, so I decided to drop out at 2021. Ever since I still study to increasing my programming skill. I used to be a worker a some factory once, before being a teacher, which is my last job.
+A brief about my experience, I have been to college for bachelor degree on Computer Science field at 2012, but life's changing, so I decided to drop out at 2021. Ever since that I still study to increasing my programming skill. I used to be a worker a some factory once, before being a teacher, which is my last job.
 
 ## Motto
 - If you have a knowledge, share it, event its a little
