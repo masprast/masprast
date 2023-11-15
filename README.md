@@ -18,13 +18,13 @@ A brief about my experience, I have been to college for bachelor degree on Compu
 
 ## Skill set
 - I'm quiet skillfull at Linux system administration, I believe I'm at intermediate level at least.
-- I'm quite experianced using Docker and have deployed one of my API mock to GCP (Google App Engine) and Heroku.
+- I'm quite experianced using Docker and have deployed an API mock to GCP (Google App Engine) and Heroku.
 - I also quiet experienced in Dart programming language with Flutter framework, since 2019 and keep learning
 - I do can code in Shell, Python, Javascript, although not at master level
 - 🌱 I’m currently learning Ruby on Rails
 
 ## Project
-- I have done a project for mobile application using Flutter 📱
+- I have done a project for mobile application using Flutter 📱 (WIP), although I'm not going to release it on PlayStore because it's going to be use internally for my client foundation (Indonesian: yayasan).
 - A backend using NodeJS & MongoDB which deployed at GCP for the above project, due to expired free trial of GCP account, I move to Heroku. 😅
 
 ## 📫 How to reach me :
