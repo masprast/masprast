@@ -7,7 +7,7 @@ A brief about my experience, I have been to college for bachelor degree on Compu
 
 ## Motto
 - If you have a knowledge, share it, event its a little
-- If you can't afford it, don't pirate! Use alternatives until you can afford.
+- If you can't afford it, don't pirate! Use free alternatives until you can afford.
 - Treat others as you would like to be treated
 
 ## Interest
