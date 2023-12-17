@@ -32,5 +32,7 @@ You can contact me
 - by 📧 [@emailanyarepras](mailto:emailanyarepras@gmail.com)
 - or my [Linkedin](https://www.linkedin.com/in/masprast) account
 - or X (formerly Twitter) [@randuwe](https://twitter.com/randuwe)
+
 **or**
-  you can visit me on [https://masprast.github.io/masprast](https://masprast.github.io/masprast)
+
+you can visit me on [https://masprast.github.io/masprast](https://masprast.github.io/masprast)
