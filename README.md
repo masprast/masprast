@@ -35,4 +35,4 @@ You can contact me
 
 **or**
 
-you can visit me on [https://masprast.github.io/masprast](https://masprast.github.io/masprast)
+you can visit me on my [Github](https://github.com/masprast) profile page
