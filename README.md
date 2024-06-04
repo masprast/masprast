@@ -1,9 +1,9 @@
 # 👋 Hi!
 ## I’m @masprast
-I'm a freelance software developer who want to be a **DevOps** or **Backend Dev**, because I have curiousity in _linux system administration_ and wants to create a system that usefull to users.
+I'm a freelance software developer who has specialties as **Backend Dev**, **Flutter** and **Linux system administration**. I have curiousity and passion in programming and _linux system administration_ and wants to create a system or software that usefull to users.
 
 ## About me
-A brief about my experience, I have been to college for bachelor degree on Computer Science discipline at 2012, but life's changing, so I decided to drop out at 2021. Ever since that I still study to growth my programming skill. I used to be a worker at cattle food factory twice in 2010-2011 (different company), before being a vocational teacher (teaching at SMK, TKJ discipline), which is my last job, for **7 years** (started at 2015). Then I quit my job as a teacher in February 2023 and become a software developer freelance to this day.
+A brief about my experience, I have been to college for bachelor degree on Computer Science discipline at 2012, but life's changing, so I decided to drop out at 2021 and focused on work. Ever since that I still study to growth my programming skill. I used to be a worker at cattle food factory twice in 2010-2011 (different company) before being a vocational teacher at K12 education level (teaching at SMK, TKJ discipline), which is my last job, for **7 years** (started at 2015) teaching _Linux server administration_ and _computer networks_ mostly but with little programming fundamental with **Python**. Then I quit my job as a teacher in February 2023 and become a software developer freelance to this day.
 
 ## Motto
 - If you have a knowledge, share it, event its a little
@@ -20,8 +20,8 @@ A brief about my experience, I have been to college for bachelor degree on Compu
 ## Skill set
 - I'm quiet skillfull at **Linux system administration**, I believe I'm at intermediate level at least.
 - I'm quite experianced using **Docker** and have deployed an API mock to **GCP (Google App Engine)**, **Heroku** (deleted by Heroku because of unpayed invoice 😅, I though it's free) and **AWS (currently learning)**.
-- I also quiet experienced in **Dart** programming language using **Flutter** framework, since 2019 and keep learning new things about it, because **Flutter** is still in active development
-- Can code vanilla backend with **JS/TS (prefer TS)** with **NodeJS**, but quiet understand by using a framework
+- I also quiet experienced in **Dart** programming language using **Flutter** framework, since 2019 using it to develop an app for school (where I'm work at)
+- Can code vanilla backend with **JS/TS (prefer TS)** with **NodeJS**, but quiet understand by using a framework like **NestJS**
 - Like TS, I also can code using **Python** and have experience with **Django and FastAPI**
 - I do can code in **Shell** although not at master level, because its MANDATORY in using linux.
 - I can construct a **Dockerfile**, but often use **docker-compose** for easy development (eventhough sometimes it can be complex)
@@ -36,7 +36,3 @@ A brief about my experience, I have been to college for bachelor degree on Compu
 You can contact me
 - by 📧 [@henry.prasetya.kurniawan](mailto:henry.prasetya.kurniawan@gmail.com)
 - or my [Linkedin](https://www.linkedin.com/in/masprast) account
-
-**or**
-
-you can visit me on my [Github](https://github.com/masprast) page, which is have the same content as this README 😅
