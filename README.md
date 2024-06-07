@@ -3,7 +3,7 @@
 I'm a freelance software developer who has specialties as **Backend Dev**, **Flutter** and **Linux system administration**. I have curiousity and passion in programming and _linux system administration_ and wants to create a system or software that usefull to users.
 
 ## About me
-A brief about my experience, I have been to college for bachelor degree on Computer Science discipline at 2012, but life's changing, so I decided to drop out at 2021 and focused on work. Ever since that I still study to growth my programming skill. I used to be a worker at cattle food factory twice in 2010-2011 (different company) before being a vocational teacher at K12 education level (teaching at SMK, TKJ discipline), which is my last job, for **7 years** (started at 2015) teaching _Linux server administration_ and _computer networks_ mostly but with little programming fundamental with **Python**. Then I quit my job as a teacher in February 2023 and become a software developer freelance to this day.
+A brief about my experience, I have been to college for bachelor degree on Computer Science discipline at 2012, but life's changing, so I decided to drop out at 2021 and focused on work. Ever since that I still study to growth my programming skill. I used to be a worker at cattle food factory twice in 2010-2011 (different company) before being a vocational teacher at K12 education level (teaching at SMK, TKJ discipline), which is my last job, for **7 years** (started at 2015) mostly teaching _Linux server administration_ and _computer networks_ and then _programming fundamental_ with **Python**. Then I quit my job as a teacher in February 2023 and become a software developer freelance to this day.
 
 ## Motto
 - If you have a knowledge, share it, event its a little
