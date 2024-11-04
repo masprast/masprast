@@ -19,7 +19,7 @@ A brief about my experience, I have been to college for bachelor degree on Compu
 
 ## Skill set
 - I'm quiet skillfull at **Linux system administration**, I believe I'm at intermediate level at least.
-- I'm quite experianced using **Docker** and have deployed an API mock to **GCP (Google App Engine)**, **Heroku** (deleted by Heroku because of unpayed invoice 😅, I though it's free) and **AWS (currently learning)**.
+- I'm quite experianced using **Docker** and have deployed an API mock to **GCP (Google App Engine)**, **Heroku** (deleted by Heroku because of unpayed invoice 😅), I though it's free) and **AWS (same fate as Heroku one)**.
 - I also quiet experienced in **Dart** programming language using **Flutter** framework, since 2019 using it to develop an app for school (where I'm work at)
 - Can code vanilla backend with **JS/TS (prefer TS)** with **NodeJS**, but quiet understand by using a framework like **NestJS**
 - Like TS, I also can code using **Python** and have experience with **Django and FastAPI**
